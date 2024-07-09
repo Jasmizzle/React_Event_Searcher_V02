@@ -5,6 +5,7 @@ export const EventCard = ({ event }) => {
   const date = event.startTime.split("T")[0];
   const start = event.startTime.split("T")[1].slice(0, 5);
   const end = event.endTime.split("T")[1].slice(0, 5);
+  
   return (
     <Card variant="filled" paddingBottom={4} align="center">
       <Image
@@ -13,9 +14,9 @@ export const EventCard = ({ event }) => {
         boxSize="xs"
         borderTopRadius={6}
       />
-      <Heading padding={4}>{event.title}</Heading>
+      <Heading padding={4} size="lg">{event.title}</Heading> {/* Pas de grootte van de Heading hier aan */}
       <Flex maxWidth="xs" wrap="wrap">
-        <Text align="center"> {event.description}</Text>
+        <Text align="center">{event.description}</Text>
       </Flex>
 
       <br />

@@ -41,8 +41,12 @@ export const EventPage = () => {
           height="100%"
           borderTopRadius={8}
         />
-        <Heading>{event.title}</Heading>
-        <Text fontWeight="bold">{event.description}</Text>
+        <Heading size="lg" textAlign="center">
+          {event.title}
+        </Heading> {/* Pas de grootte van de Heading aan hier */}
+        <Text fontWeight="bold" textAlign="center">
+          {event.description}
+        </Text>
 
         <Flex
           direction="column"
@@ -59,7 +63,7 @@ export const EventPage = () => {
           <CategoryCard event={event} />
         </Flex>
 
-        <Flex padding={2}>
+        <Flex padding={2} justifyContent="center">
           <UserCard userId={event.createdBy} />
         </Flex>
 
@@ -67,7 +71,6 @@ export const EventPage = () => {
           <EditEvent event={event} />
           <Flex gap={4}>
             <DeleteEvent event={event} />
-
             <Link to="/">
               <Button size="sm">Home</Button>
             </Link>

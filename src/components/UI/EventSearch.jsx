@@ -139,7 +139,7 @@ export const EventSearch = ({ events }) => {
             >
               Try again
             </Button>
-            <Text fontSize="5xl">😿</Text>
+            <Text fontSize="6xl">😿</Text>
           </Flex>
         </GridItem>
       )}

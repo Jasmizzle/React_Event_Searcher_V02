@@ -1,9 +1,11 @@
 import { extendTheme } from "@chakra-ui/react";
+import '@fontsource-variable/playwrite-de-la';
+import "@fontsource/open-sans";
 
 const theme = extendTheme({
   fonts: {
-    heading: `'Playwrite-de-la', sans-serif`, // Voor koppen
-    body: `'open-sans', sans-serif`,
+    heading: 'Playwrite DE LA Variable',
+    body: 'Open Sans, sans-serif',         // Ensuring proper fallback font
   },
 });
 

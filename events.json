@@ -90,7 +90,6 @@
       "id": "7419"
     },
     {
-      "id": "7697",
       "title": "Festival TREK",
       "description": "A lot of different food you can try!",
       "image": "https://images.unsplash.com/photo-1565524622405-171b921788ca?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
@@ -98,7 +97,8 @@
       "endTime": "2024-07-21T22:00",
       "location": "Amsterdam",
       "categoryIds": "2",
-      "createdBy": "1"
+      "createdBy": "1",
+      "id": "7697"
     },
     {
       "title": "Gnome Route ",
@@ -112,15 +112,37 @@
       "id": "d5ee"
     },
     {
-      "id": "15f1",
       "title": "Picking Garden",
-      "description": "A garden where you can pick whatever you want, flowers,herbs, fruits and more!",
+      "description": "A garden where you can pick whatever you want, flowers, herbs, fruits and more!",
       "image": "https://images.pexels.com/photos/5529007/pexels-photo-5529007.jpeg?auto=compress&cs=tinysrgb&w=600",
       "startTime": "2024-06-01T10:00",
       "endTime": "2024-06-30T17:00",
       "location": "Hoeve Ravenstein Baarn",
       "categoryIds": "2",
-      "createdBy": "2"
+      "createdBy": "1",
+      "id": "15f1"
+    },
+    {
+      "id": "d3ed",
+      "title": "Sherlock Game",
+      "description": "Sherlock is an interactive tour and exciting game on your own mobile, right through the heart of the city.",
+      "image": "https://plus.unsplash.com/premium_photo-1664392289307-97a9d5eaee08?q=80&w=1960&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "startTime": "2024-07-01T12:00",
+      "endTime": "2025-12-31T17:00",
+      "location": "Binnenstad Arnhem Jansplein 1",
+      "categoryIds": "1",
+      "createdBy": "1"
+    },
+    {
+      "title": "History Game",
+      "description": "Are you a real detective? Then the new scavenger hunt of the Dutch Water Museum is just the thing for you! age 4 till 12.",
+      "image": "https://images.pexels.com/photos/1094072/pexels-photo-1094072.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "startTime": "2024-06-01T10:00",
+      "endTime": "2024-08-25T17:00",
+      "location": "Nederlands Watermuseum Zijpendaalseweg 26",
+      "categoryIds": "1",
+      "createdBy": "1",
+      "id": "d96d"
     }
   ],
   "categories": [
