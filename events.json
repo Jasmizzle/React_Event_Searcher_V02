@@ -1,0 +1,140 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Ignacio Doe",
+      "image": "https://global-uploads.webflow.com/5eecfecbe625d195e35b89f2/624bfb093da7d92733c001c0_Ignacio%20Villafruela%20Rodr%C3%ADguez.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Jane Bennett",
+      "image": "https://global-uploads.webflow.com/5eecfecbe625d195e35b89f2/624bfb401d7131c760ca1c63_Elieska%20Lensink.jpg"
+    }
+  ],
+  "events": [
+    {
+      "title": "Cosmic Bowling",
+      "description": "blacklight, light effects and more!",
+      "image": "https://images.pexels.com/photos/9833557/pexels-photo-9833557.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "startTime": "2024-09-21T10:00",
+      "endTime": "2024-09-22T21:00",
+      "location": "Taurus- Limburg Velden",
+      "categoryIds": "1",
+      "createdBy": "2",
+      "id": "2"
+    },
+    {
+      "title": "Yoga in the rain",
+      "description": "It's a bit of a stretch, with rain therapy",
+      "image": "https://images.pexels.com/photos/789296/pexels-photo-789296.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "startTime": "2024-10-12T10:00",
+      "endTime": "2024-10-13T16:00",
+      "location": "Yoga School Buigzaam",
+      "categoryIds": "3",
+      "createdBy": "2",
+      "id": "4"
+    },
+    {
+      "title": "Abunai!",
+      "description": "Geek event for cosplayers, gamers and anime lovers.",
+      "image": "https://images.pexels.com/photos/1308648/pexels-photo-1308648.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "startTime": "2024-08-09T14:00",
+      "endTime": "2024-08-11T18:00",
+      "location": "Veldhoven",
+      "categoryIds": "3",
+      "createdBy": "2",
+      "id": "0705"
+    },
+    {
+      "title": "Swim with pigs!",
+      "description": "Always wanted to hug and swim with pigs? Now is your change!",
+      "image": "https://images.unsplash.com/photo-1518015533105-e1f1bdefc8ce?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "startTime": "2024-07-27T10:00",
+      "endTime": "2024-07-28T17:00",
+      "location": "Scheveningen beach",
+      "categoryIds": "3",
+      "createdBy": "1",
+      "id": "8992"
+    },
+    {
+      "title": "Elderly Soccer",
+      "description": "With the EK currently going, we think everybody should be able to play soccer!",
+      "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "startTime": "2024-07-13T08:00",
+      "endTime": "2024-07-13T17:00",
+      "location": "Eindhoven",
+      "categoryIds": "1",
+      "createdBy": "2",
+      "id": "1eab"
+    },
+    {
+      "title": "Fireworks Show",
+      "description": "An amazing fireworks show at the beach",
+      "image": "https://images.pexels.com/photos/1387577/pexels-photo-1387577.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "startTime": "2024-08-24T22:00",
+      "endTime": "2024-08-24T02:00",
+      "location": "Scheveningen",
+      "categoryIds": "3",
+      "createdBy": "2",
+      "id": "f789"
+    },
+    {
+      "title": "Japan Food Fest",
+      "description": "Festival full with Japanese food to try!",
+      "image": "https://images.pexels.com/photos/2871756/pexels-photo-2871756.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
+      "startTime": "2024-09-06T14:00",
+      "endTime": "2024-09-08T21:00",
+      "location": "Utrecht",
+      "categoryIds": "2",
+      "createdBy": "1",
+      "id": "7419"
+    },
+    {
+      "id": "7697",
+      "title": "Festival TREK",
+      "description": "A lot of different food you can try!",
+      "image": "https://images.unsplash.com/photo-1565524622405-171b921788ca?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "startTime": "2024-07-20T10:00",
+      "endTime": "2024-07-21T22:00",
+      "location": "Amsterdam",
+      "categoryIds": "2",
+      "createdBy": "1"
+    },
+    {
+      "title": "Gnome Route ",
+      "description": "A route for kids where they can find gnomes and do assignments and get a price!",
+      "image": "https://images.pexels.com/photos/18297345/pexels-photo-18297345/free-photo-of-tuin-bladeren-hoed-hoofddeksel.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "startTime": "2024-07-01T10:00",
+      "endTime": "2025-07-01T18:00",
+      "location": " landgoed Pijnenburg in Lage Vuursche",
+      "categoryIds": "1",
+      "createdBy": "1",
+      "id": "d5ee"
+    },
+    {
+      "id": "15f1",
+      "title": "Picking Garden",
+      "description": "A garden where you can pick whatever you want, flowers,herbs, fruits and more!",
+      "image": "https://images.pexels.com/photos/5529007/pexels-photo-5529007.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "startTime": "2024-06-01T10:00",
+      "endTime": "2024-06-30T17:00",
+      "location": "Hoeve Ravenstein Baarn",
+      "categoryIds": "2",
+      "createdBy": "2"
+    }
+  ],
+  "categories": [
+    {
+      "name": "games",
+      "id": "1"
+    },
+    {
+      "name": "food",
+      "id": "2"
+    },
+    {
+      "name": "Other",
+      "id": "3"
+    }
+  ]
+}
